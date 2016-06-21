@@ -1,4 +1,26 @@
-# sit-nav
+## sit-nav
+
+
+
+一些想法：
+这个项目用来做一个导航网站，用来搜集和整理一些非常棒的站点。
+主要是前端相关
+
+
+### 这个项目应用到的技术
+1. angular
+	1.1 
+2. karma
+3. mocha
+4. protractor
+5. babelrc
+6. ES6
+7. express
+	7.1 body-parser
+8. bower
+9. yeoman
+10. mongodb
+
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.3.
 
