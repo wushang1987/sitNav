@@ -2,7 +2,6 @@
 
 angular.module('sitNavApp.admin')
 	.config(function($stateProvider) {
-
 		$stateProvider.state('admin', {
 			url: '/admin',
 			views: {
@@ -25,7 +24,6 @@ angular.module('sitNavApp.admin')
 			views: {
 				"adminContent": {
 					templateUrl: 'app/admin/userMsg/userMsg.html',
-
 				},
 			}
 		});
@@ -36,6 +34,7 @@ angular.module('sitNavApp.admin')
 				"adminContent": {
 					templateUrl: 'app/admin/websiteMsg/websiteMsg.html',
 					controller: 'websiteMsg',
+					controllerAs:'website'
 				},
 			}
 		});

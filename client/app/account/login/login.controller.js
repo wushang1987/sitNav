@@ -1,5 +1,7 @@
 'use strict';
-
+/**
+ * 登录模块
+ */
 class LoginController {
   constructor(Auth, $state) {
     this.user = {};

@@ -21,6 +21,9 @@
 9. yeoman
 10. mongodb
 
+### 项目计划及线路图
+1. 完善登录模块
+
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.3.
 

@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "command": "gulp",
+    "isShellCommand": true,
+    "args": [],
+    "showOutput": "always",
+     "tasks": [
+        {
+            "taskName": "serve",
+            "args": ["serve"],
+            "isBuildCommand":true,
+            "suppressTaskName":true
+        },
+        {
+            "taskName": "bye",
+            "args": ["Good Bye"]
+        }
+    ]
+}
